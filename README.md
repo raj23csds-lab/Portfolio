@@ -1,4 +1,4 @@
-# Rakshitha J - Portfolio Website
+# Portfolio
 
 A modern, premium-quality portfolio website built with Next.js, React, TypeScript, and Tailwind CSS. This website showcases my skills, projects, education, and achievements as a Computer Science & Data Science student.
 
